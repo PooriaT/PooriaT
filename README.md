@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="your_profile_picture_url" alt="Pooria Taghdiri" width="200" height="200">
+  <img src="https://svgmix.com/uploads/flat-summer/29fcb4-sunglasses.svg" alt="Pooria Taghdiri" width="200" height="200" style="border-radius: 100%;">
 </p>
 
 <h1 align="center">Hi there, I'm Pooria Taghdiri</h1>
