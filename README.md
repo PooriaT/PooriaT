@@ -81,7 +81,7 @@ These are some of my notable repositories:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PooriaT&repo=FlaskPaymentAPI)](https://github.com/PooriaT/FlaskPaymentAPI)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PooriaT&repo=BlockchainAPI)](https://github.com/PooriaT/BlockchainAPI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PooriaT&repo=Resumivise)](https://github.com/PooriaT/Resumivise)
 
 ---
 
