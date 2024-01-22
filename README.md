@@ -36,12 +36,11 @@
 
 🌱 **I’m currently learning**
 
-- Java Programming
 - Design Pattern
 
 💬 **Contact**
 
-- Want to collaborate or say hi? Drop me an email at pooria@duck.com
+Would you like to collaborate or say hi? Drop me an email at pooria@duck.com
 
 📊 **GitHub Stats**
 
@@ -69,7 +68,7 @@ Here are some of my featured projects:
 <!--- - [FlaskPaymentAPI](https://github.com/PooriaT/FlaskPaymentAPI) - PaymentAPI is an API that is built by Flask (Python Web Framework).)
 - [BlockchainAPI](https://github.com/PooriaT/BlockchainAPI) - Blockchain API built on Django Rest Framework.
 
-Feel free to explore my GitHub repositories for more exciting projects.
+You can explore my GitHub repositories for more exciting projects.
 --->
 
 ---
@@ -98,7 +97,7 @@ Here are some of the organizations, I am a part of:
 ---
 ❤️ **Support**
 
-If you find my work valuable and want to support, you can [buy me a book](https://www.buymeacoffee.com/pooria7) or contribute to my open-source projects.
+If you find my work valuable and want to support me, you can [buy me a book](https://www.buymeacoffee.com/pooria7) or contribute to my open-source projects.
 
 ✨ **Visitors**
 
