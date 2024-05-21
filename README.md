@@ -91,7 +91,6 @@ Here are some of the organizations, I am a part of:
 
 👥 [Grey-Box](https://github.com/grey-box) 
 👥 [Bank.green](https://github.com/bank-green)
-👥 [OpenBCca](https://github.com/OpenBCca)
 
 
 
