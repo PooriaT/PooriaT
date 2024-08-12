@@ -84,14 +84,14 @@ These are some of my notable repositories:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PooriaT&repo=FlaskPaymentAPI)](https://github.com/PooriaT/FlaskPaymentAPI)
 
 ---
-
+<!---
 🚢 **Organizations**
 
 Here are some of the organizations, I am a part of:
 
 👥 [Grey-Box](https://github.com/grey-box) 
 👥 [Bank.green](https://github.com/bank-green)
-
+--->
 
 
 ---
