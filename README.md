@@ -71,15 +71,9 @@ Would you like to collaborate or say hi? Drop me an email at [pooria@duck.com](m
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PooriaT&layout=compact" alt="Top languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PooriaT&show_icons=true" alt="GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=PooriaT" alt="GitHub streak" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=PooriaT&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=PooriaT&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PooriaT&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
