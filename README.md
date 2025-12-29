@@ -93,19 +93,13 @@ Would you like to collaborate or say hi? Drop me an email at [pooria@duck.com](m
 
 Here are some of my featured projects:
 
-- [Resumivise](https://github.com/PooriaT/Resumivise)
-- [Sumcast](https://github.com/PooriaT/Sumcast)
 - [StockUP](https://github.com/PooriaT/StockUP)
 
 ---
 
 ## ⭐ Pinned Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PooriaT&repo=Resumivise)](https://github.com/PooriaT/Resumivise)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PooriaT&repo=Sumcast)](https://github.com/PooriaT/Sumcast)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PooriaT&repo=StockUP)](https://github.com/PooriaT/StockUP)
+- [StockUP](https://github.com/PooriaT/StockUP)
 
 ---
 
