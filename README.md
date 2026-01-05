@@ -22,7 +22,7 @@
 
 ## 👩‍💻 About Me
 
-- Software Engineer
+- Software Developer
 - Open Source Enthusiast
 - Passionate about technology and coding
 - Rock Climber, Cyclist
