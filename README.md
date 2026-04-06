@@ -72,11 +72,26 @@ Would you like to collaborate or say hi? Drop me an email at [pooria@duck.com](m
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Activity & Statistics Dashboard
 
-![](https://github-readme-stats.vercel.app/api?username=PooriaT&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PooriaT&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PooriaT&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PooriaT&theme=dark&hide_border=true&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PooriaT&theme=dark&hide_border=true" height="170" alt="Contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PooriaT&theme=dark&hide_border=true&layout=compact&langs_count=8" height="170" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PooriaT&theme=github_dark&utcOffset=0" height="170" alt="Most productive time" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PooriaT&theme=github_dark" alt="Profile details graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PooriaT&theme=github_dark" height="145" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PooriaT&theme=github_dark" height="145" alt="Most commit language" />
+</p>
 
 ---
 
