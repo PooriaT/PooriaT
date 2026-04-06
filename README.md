@@ -87,12 +87,6 @@ Would you like to collaborate or say hi? Drop me an email at [pooria@duck.com](m
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PooriaT&theme=github_dark" alt="Profile details graph" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PooriaT&theme=github_dark" height="145" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PooriaT&theme=github_dark" height="145" alt="Most commit language" />
-</p>
-
 ---
 
 ## ⚡ Fun Facts
