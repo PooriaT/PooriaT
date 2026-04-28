@@ -1,4 +1,5 @@
-# Hi, I'm Pooria Taghdiri 👋
+# Hi, I'm Pooria T 👋
+Product Manager, Business Lead, and Open Source Builder
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pooriataghdiri">
@@ -22,11 +23,18 @@
 
 ## 👩‍💻 About Me
 
-- Business Lead
-- Product Manager
-- Open Source Enthusiast
-- Passionate about technology and coding
-- Rock Climber, Cyclist
+I'm a Product Manager and Business Lead interested in building practical, user-focused technology products.
+
+I enjoy working at the intersection of product strategy, open source, developer tools, and business growth. I also like coding, exploring new technologies, and contributing to projects that make software more useful and accessible.
+
+---
+
+## 🔭 Currently Exploring
+
+- Product strategy for developer tools and AI products
+- Open source collaboration and community building
+- Backend development with Python, TypeScript, and Go
+- Better workflows for product teams and builders
 
 ---
 
@@ -40,12 +48,6 @@
 
 ---
 
-## 💬 Contact
-
-Would you like to collaborate or say hi? Drop me an email at [pooria@duck.com](mailto:pooria@duck.com).
-
----
-
 ## 📊 Activity & Statistics Dashboard
 
 <p align="center">
@@ -55,26 +57,31 @@ Would you like to collaborate or say hi? Drop me an email at [pooria@duck.com](m
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PooriaT&theme=github_dark" height="170" alt="Top languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PooriaT&theme=github_dark&utcOffset=0" height="170" alt="Most productive time" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PooriaT&theme=github_dark" alt="Profile details graph" />
-</p>
 ---
 
-## ⚡ Fun Facts
+## ⚡ Outside Work
 
 - I'm a coffee lover and music addict. ☕🎵🎶
 - Rock Climbing 🧗🏻‍♂️
-- Cycling & Mountain Biking 🚴🏻‍♂️🚵🏻‍♂️
+- Cycling 🚴🏻‍♂️🚵🏻‍♂️
 - Books and Comics 📚
+
+---
+
+## 💬 Contact
+
+I'm open to conversations about product, open source, developer tools, startups, and collaboration.
+
+📬 [Email me](mailto:pooria@duck.com)  
+🔗 [Connect on LinkedIn](https://www.linkedin.com/in/pooriataghdiri)
 
 ---
 
 ## ❤️ Support
 
-If you find my work valuable and want to support me, you can [buy me a book](https://www.buymeacoffee.com/pooria7) or contribute to my open-source projects.
+Enjoy my open-source work? You can support it here: [Buy me a book](https://www.buymeacoffee.com/pooria7).
 
 ---
 
