@@ -22,7 +22,8 @@
 
 ## 👩‍💻 About Me
 
-- Software Developer
+- Business Lead
+- Product Manager
 - Open Source Enthusiast
 - Passionate about technology and coding
 - Rock Climber, Cyclist
@@ -60,12 +61,6 @@
 
 ---
 
-## 🌱 I’m Currently Learning
-
-- Design Patterns
-
----
-
 ## 💬 Contact
 
 Would you like to collaborate or say hi? Drop me an email at [pooria@duck.com](mailto:pooria@duck.com).
@@ -95,20 +90,6 @@ Would you like to collaborate or say hi? Drop me an email at [pooria@duck.com](m
 - Rock Climbing 🧗🏻‍♂️
 - Cycling & Mountain Biking 🚴🏻‍♂️🚵🏻‍♂️
 - Books and Comics 📚
-
----
-
-## 🌐 Featured Projects
-
-Here are some of my featured projects:
-
-- [StockUP](https://github.com/PooriaT/StockUP)
-
----
-
-## ⭐ Pinned Repositories
-
-- [StockUP](https://github.com/PooriaT/StockUP)
 
 ---
 
